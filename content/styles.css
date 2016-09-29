@@ -1,0 +1,53 @@
+.table-striped>tbody>tr:nth-child(odd)>td,
+tr.found{
+    background-color:#F9F9F9;
+}
+
+.table-striped>tbody>tr:nth-child(even)>td,
+tr.found{
+    background-color:#F0F0F0;
+}
+
+body {
+    background-color: #457E86;
+}
+
+thead th {
+  background-color: #EDEFED;
+  color: black;
+}
+
+caption {
+    text-align: center;
+    background-color: #361D09;
+	color: white;
+	font-weight: bold;
+}
+
+img {
+  width: 60px;
+  height: 60px;
+  border-radius: 10%;
+  border: solid;
+}
+
+.inputOption{
+    color: white;
+}
+
+.inputOption{
+    color: white;
+}
+
+th u{
+	color: green;
+} 
+
+.fa-caret-down {
+	color: green;
+}
+
+.fa-caret-down {
+	color: green;
+}
+
