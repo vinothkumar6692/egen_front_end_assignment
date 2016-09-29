@@ -1,4 +1,4 @@
-<img src = "https://egen.solutions/images/egen-logo.png" align = "right" height="142" width="342">
+<img src = "https://egen.solutions/images/egen-logo.png" align = "right">
 
 # egen_front_end_assignment
 A simple Angular application to display top camp users
