@@ -1,3 +1,5 @@
+<img src = "https://egen.solutions/images/egen-logo.png" align = "right" height="142" width="342">
+
 # egen_front_end_assignment
 A simple Angular application to display top camp users
 
@@ -25,3 +27,8 @@ https://fcctop100.herokuapp.com/api/fccusers/top/recent.
 ```bash
 https://fcctop100.herokuapp.com/api/fccusers/top/alltime.
 ```
+
+Screenshot:
+=======
+
+<img src = "https://s12.postimg.org/4e3lph231/Screen_Shot_2016_09_29_at_12_38_57_AM.png" align = "center">
